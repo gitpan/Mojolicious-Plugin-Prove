@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Mojolicious/Plugin/Prove.pm
+lib/Mojolicious/Plugin/Prove/Base.pm
+lib/Mojolicious/Plugin/Prove/Controller.pm
+lib/Mojolicious/Plugin/Prove/public/jquery-1.9.1.min.js
+lib/Mojolicious/Plugin/Prove/public/prove_funcs.js
+lib/Mojolicious/Plugin/Prove/templates/prove_exception.html.ep
+lib/Mojolicious/Plugin/Prove/templates/prove_file.html.ep
+lib/Mojolicious/Plugin/Prove/templates/prove_file_list.html.ep
